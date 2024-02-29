@@ -1,0 +1,18 @@
+public ip  add : 20.219.22.34
+----In git bash-----
+
+
+ssh Nikita@20.219.22.34
+NIkitayadav#12
+htop
+q
+vi app.py
+i(for inserting code)
+esc
+:wq
+sudo apt install pip
+sudo apt update
+sudo apt upgrade
+jenkins
+uname : nikitayadav
+password : nikita
